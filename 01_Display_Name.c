@@ -4,7 +4,7 @@
 
 int main(){
     
-    printf("Zahran");
+    printf("Mohammad");
 
     return 0;
 }
